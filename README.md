@@ -1,6 +1,6 @@
 ---
-title: 'PIA_Laboratorio_ProgramacionCiberseguridad'
-disqus: Diego Garza Martinez 2076284
+titulo: 'PIA_Laboratorio_ProgramacionCiberseguridad'
+estudiante: Diego Garza Martinez 2076284
 ---
 
 PIA_Laboratorio_ProgramacionCiberseguridad
