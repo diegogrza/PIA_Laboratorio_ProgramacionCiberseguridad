@@ -10,7 +10,17 @@ PIA_Laboratorio_ProgramacionCiberseguridad
 En este repositorio cuenta con 9 proyectos que realize a lo largo del semestre para la materia de **laboratorio de programacion para ciberseguridad**, que lleve con el profesor Gerardo Bernal Carranza.
 
 
-[TOC]
+- [PIA_Laboratorio_ProgramacionCiberseguridad](#pia-laboratorio-programacionciberseguridad)
+  * [Automatizacion_Tareas](#automatizacion-tareas)
+  * [Encoding_Decoding](#encoding-decoding)
+  * [Escaneo_Puertos](#escaneo-puertos)
+  * [FTP](#ftp)
+  * [Manejo_API](#manejo-api)
+  * [Nmap](#nmap)
+  * [Scripting_Bash](#scripting-bash)
+  * [Scripting_Powershell](#scripting-powershell)
+  * [Webscrapping](#webscrapping)
+
 
 ## Automatizacion_Tareas
 
